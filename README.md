@@ -4,7 +4,7 @@ Aplikasi ini befungsi untuk memonitoring perubahan html pada suatu website
 
 # Bug!
   - Method POST Belum Berhasil
-  - File Mp3 Masih Terpisah degan file exe
+  - File Mp3 Masih Terpisah dengan file exe
   
 # Download Link
 
