@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="HTML Change Alarm.exe" version="1.0.0.1" publicKeyToken="636022c249e213fd" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="alarm.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="HTML Change Alarm" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="HTML Change Alarm.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HTML Change Alarm.exe" size="1850304">
+      <assemblyIdentity name="HTML Change Alarm" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>LX0oygqF/BOZKiSyxTwTF8vUEJvOyYZpwXC8ELPWYTM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="alarm.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>OGf9+mIS9fA9cqzjPqL1sj9Sde8U20o11tuqRejF1GE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HTML Change Alarm.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>j5XMowm9qYcyNWR87Ke1KpLLXBlaYAR38CaZywZFE9o=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Lenovo-PC\arioki" issuerKeyHash="81ad5eb81aedb1a2cc7b86352ccc8326e31afcf7" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>8tNJ7dgKzK5C7eYd2p7Tu3PyOZ+blHUJHOilorBOiSk=</DigestValue></Reference></SignedInfo><SignatureValue>OomZSj7yQIvb5sJG45yqIdTJkcw5x4WHqWt/Vr74Cs66wvHxbbV1kEpl6UvLV1Mo1s/jGvV3trsvWejFUskcX0nre7GSq3qKTohZMFshFQIrHAv0y5NF+w0ETx8UF4LUPwi0bXU8GWYuV2pxCYWTF68lLlckj/u8mtviQfGc+TU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0BwnLBe6TYDeDcxkNkrPJ9KjAcSLNWA+KxGhMTQ7ftEsmzKHd0EtAVwm9GRJhVB1O8SRzrDFtJYPlqokEMfyZ/todLvrLiNwdIw7NU1QfO5wdJ/PfuUHwoNDQaByr1IIbNMkQZtoz87qhozzxAvmW2wv7Ow8ijzAG79OwCNx4mU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="29894eb0a2a5e81c0975949b9f39f273bbd39eda1de6ed42aecc0ad8ed49d3f2" Description="" Url=""><as:assemblyIdentity name="HTML Change Alarm.exe" version="1.0.0.1" publicKeyToken="636022c249e213fd" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Lenovo-PC\arioki</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>kC+MiO3TUleqHm+r9JWCveZyNwAISLEy6RoOgYhsLoM=</DigestValue></Reference></SignedInfo><SignatureValue>GVkkv6eUp7u0OQn92nCN1sL7PKJtjcvPXiuR+B0Wl5EA7H7A0L6Ga34cBrJnqjOvbVirpleM+P+GJ745x69OcLCFHmNpwYG2+NyvYCa8cyEILBWm/JEVpeWXwp5B8Vm6yhcZJkqKb94r+pEuMhv1P7/5p9/+5Z3Y86Lueh9PY3k=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0BwnLBe6TYDeDcxkNkrPJ9KjAcSLNWA+KxGhMTQ7ftEsmzKHd0EtAVwm9GRJhVB1O8SRzrDFtJYPlqokEMfyZ/todLvrLiNwdIw7NU1QfO5wdJ/PfuUHwoNDQaByr1IIbNMkQZtoz87qhozzxAvmW2wv7Ow8ijzAG79OwCNx4mU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQeE1zbH3nN6xGkTS+SXupxjANBgkqhkiG9w0BAQsFADArMSkwJwYDVQQDHiAATABlAG4AbwB2AG8ALQBQAEMAXABhAHIAaQBvAGsAaTAeFw0xNzA1MjUxNzQyMzhaFw0xODA1MjUyMzQyMzhaMCsxKTAnBgNVBAMeIABMAGUAbgBvAHYAbwAtAFAAQwBcAGEAcgBpAG8AawBpMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDQHCcsF7pNgN4NzGQ2Ss8n0qMBxIs1YD4rEaExNDt+0SybMod3QS0BXCb0ZEmFUHU7xJHOsMW0lg+WqiQQx/Jn+2h0u+suI3B0jDs1TVB87nB0n89+5QfCg0NBoHKvUghs0yRBm2jPzuqGjPPEC+ZbbC/s7DyKPMAbv07AI3HiZQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAFADg52mvZ9oqhPD6P3DbZ9WkWROzUbEHtpf0U3VjgvpLqKaE/kSJKiLgvnNwVmDEWhcgR1S5VIe42kd0baxo9WHa2Vc9HvIAv/2rWHDGBxB8sXv32XjOwU9jS+A9ANSen/H425275gUBhIyWAlJe+bnBsOBtLX/QAzycvQlS95c</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

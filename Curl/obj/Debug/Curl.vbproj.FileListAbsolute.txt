@@ -1,0 +1,32 @@
+C:\Users\arioki\Documents\Visual Studio 2015\Projects\Curl\Curl\bin\Debug\HTML Change Alarm.exe.config
+C:\Users\arioki\Documents\Visual Studio 2015\Projects\Curl\Curl\bin\Debug\HTML Change Alarm.exe.manifest
+C:\Users\arioki\Documents\Visual Studio 2015\Projects\Curl\Curl\bin\Debug\HTML Change Alarm.application
+C:\Users\arioki\Documents\Visual Studio 2015\Projects\Curl\Curl\bin\Debug\HTML Change Alarm.exe
+C:\Users\arioki\Documents\Visual Studio 2015\Projects\Curl\Curl\bin\Debug\HTML Change Alarm.pdb
+C:\Users\arioki\Documents\Visual Studio 2015\Projects\Curl\Curl\bin\Debug\HTML Change Alarm.xml
+C:\Users\arioki\Documents\Visual Studio 2015\Projects\Curl\Curl\obj\Debug\Interop.WMPLib.dll
+C:\Users\arioki\Documents\Visual Studio 2015\Projects\Curl\Curl\obj\Debug\Curl.vbproj.ResolveComReference.cache
+C:\Users\arioki\Documents\Visual Studio 2015\Projects\Curl\Curl\obj\Debug\Curl.Form1.resources
+C:\Users\arioki\Documents\Visual Studio 2015\Projects\Curl\Curl\obj\Debug\Curl.Resources.resources
+C:\Users\arioki\Documents\Visual Studio 2015\Projects\Curl\Curl\obj\Debug\Curl.vbproj.GenerateResource.Cache
+C:\Users\arioki\Documents\Visual Studio 2015\Projects\Curl\Curl\obj\Debug\HTML Change Alarm.exe.manifest
+C:\Users\arioki\Documents\Visual Studio 2015\Projects\Curl\Curl\obj\Debug\HTML Change Alarm.application
+C:\Users\arioki\Documents\Visual Studio 2015\Projects\Curl\Curl\obj\Debug\HTML Change Alarm.exe
+C:\Users\arioki\Documents\Visual Studio 2015\Projects\Curl\Curl\obj\Debug\HTML Change Alarm.xml
+C:\Users\arioki\Documents\Visual Studio 2015\Projects\Curl\Curl\obj\Debug\HTML Change Alarm.pdb
+D:\data\belajar\VB\Projects\Curl\Curl\bin\Debug\HTML Change Alarm.exe.config
+D:\data\belajar\VB\Projects\Curl\Curl\obj\Debug\Interop.WMPLib.dll
+D:\data\belajar\VB\Projects\Curl\Curl\obj\Debug\Curl.vbproj.ResolveComReference.cache
+D:\data\belajar\VB\Projects\Curl\Curl\obj\Debug\HTML Change Alarm.exe
+D:\data\belajar\VB\Projects\Curl\Curl\obj\Debug\HTML Change Alarm.xml
+D:\data\belajar\VB\Projects\Curl\Curl\obj\Debug\HTML Change Alarm.pdb
+D:\data\belajar\VB\Projects\Curl\Curl\bin\Debug\HTML Change Alarm.exe.manifest
+D:\data\belajar\VB\Projects\Curl\Curl\bin\Debug\HTML Change Alarm.application
+D:\data\belajar\VB\Projects\Curl\Curl\bin\Debug\HTML Change Alarm.exe
+D:\data\belajar\VB\Projects\Curl\Curl\bin\Debug\HTML Change Alarm.pdb
+D:\data\belajar\VB\Projects\Curl\Curl\bin\Debug\HTML Change Alarm.xml
+D:\data\belajar\VB\Projects\Curl\Curl\obj\Debug\Curl.Form1.resources
+D:\data\belajar\VB\Projects\Curl\Curl\obj\Debug\Curl.Resources.resources
+D:\data\belajar\VB\Projects\Curl\Curl\obj\Debug\Curl.vbproj.GenerateResource.Cache
+D:\data\belajar\VB\Projects\Curl\Curl\obj\Debug\HTML Change Alarm.exe.manifest
+D:\data\belajar\VB\Projects\Curl\Curl\obj\Debug\HTML Change Alarm.application
